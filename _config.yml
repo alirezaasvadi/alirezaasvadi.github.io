@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Jyxm_lgAAAAJ&hl=en"
-  email            : "alireza.asvadi@imt-atlantique.fr"
+  email            : "alireza.asvadi@gmail.com" #"alireza.asvadi@imt-atlantique.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
